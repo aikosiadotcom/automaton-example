@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/aikosiadotcom/automaton-examples.git"
   },
+  "dependencies": {},
   "author": "firman",
   "license": "ISC",
   "bugs": {
