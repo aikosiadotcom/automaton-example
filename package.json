@@ -1,0 +1,19 @@
+{
+  "name": "@aikosia/automaton-examples",
+  "version": "0.9.0",
+  "description": "use case of automaton bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aikosiadotcom/automaton-examples.git"
+  },
+  "author": "firman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aikosiadotcom/automaton-examples/issues"
+  },
+  "homepage": "https://github.com/aikosiadotcom/automaton-examples#readme"
+}
