@@ -1,2 +1,2 @@
 # automaton-example
-For explaining how automaton works
+For showing use case of automaton bot
