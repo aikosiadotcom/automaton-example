@@ -4,7 +4,7 @@
   "description": "use case of automaton bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release":"echo \"hello world\""
   },
   "repository": {
     "type": "git",
